@@ -2,18 +2,16 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&width=550&center=true&lines=Hey!+Welcome+to+my+profile+👋;Glad+you're+here!;This+is+my+digital+playground;Take+a+look+around!" alt="Typing SVG">
 </p>
 
-<h3> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px" height="30px"/> About Me </h3>
+<h3> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px" height="30px"/> About Me: </h3>
 
 I'm a 17-year-old student from Tunisia 🇹🇳 who just really loves computer science, system architecture, and figuring out how to build things from scratch 😁. My main goal right now is building a strong portfolio for university applications (MIT, Stanford, EPFL are the dream! ✨)
 
 Long-term, I'd love to contribute to solving interesting challenges at a company like Google.
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-13953bf2ed67.gif" alt="separator">
-</p>
+---
 
-### 🚀 What I'm Building
+### 🚀 What I'm Building:
 
 My main project for the last couple of years has been an algorithmic trading system for Bitcoin. It's been a huge learning process 😅! This project involves:
 
@@ -24,29 +22,24 @@ My main project for the last couple of years has been an algorithmic trading sys
 > **Heads-up:** The repo for this project is private for now! It's still a heavy work-in-progress, but I definitely plan to open-source it once it's more polished and ready for the world. 🛠️
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-13953bf2ed67.gif" alt="separator">
-</p>
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🔭 My Other Interests
+### 🔭 My Other Interests:
 
 * **Quantum Computing:** Trying to keep up with what's happening in quantum... it's wild! 🤯
 * **Business & Market Analysis:** Researching the business models of tech companies, investment strategies, and the economics of software.
 * **Productivity:** Developing efficient workflows and systems for self-improvement and focused work.
-
+<br/>
 </td>
 <td width="50%" valign="top">
 
-### 🌱 What I'm Currently Learning
+### 🌱 What I'm Currently Learning:
 
 * Going deeper into Machine Learning with an advanced course 🧠.
 * Getting better at deploying services on GCP.
 * Outside of tech, I'm also learning Spanish, ¡Hola! 🇪🇸
-
 </td>
 </tr>
 </table>
@@ -57,7 +50,13 @@ My main project for the last couple of years has been an algorithmic trading sys
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-13953bf2ed67.gif" alt="separator">
 </p>
 
-### 🛠️ My Tech Stack
+### 📊 My GitHub Stats & Contributions:
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=FaresDisusa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<p/>
+
+  
+### 🛠️ My Tech Stack:
 
 **Core Languages:**
 <p>
@@ -66,6 +65,7 @@ My main project for the last couple of years has been an algorithmic trading sys
 
 **ML & MLOps:**
 <p>
+  <img src="https://img.shields.io/badge/LightGBM-017CEE?style=for-the-badge&logoColor=white" alt="LightGBM"/>
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow"/>
   <img src="https://img.shields.io/badge/Google%20Pub/Sub-B31412?style=for-the-badge&logo=google-pubsub&logoColor=white" alt="Google Pub/Sub"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
@@ -77,31 +77,8 @@ My main project for the last couple of years has been an algorithmic trading sys
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
 </p>
-<br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-13953bf2ed67.gif" alt="separator">
-</p>
-
-### 📊 My GitHub Stats & Contributions
-
-<table align="center">
-<tr>
-<td valign="top">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaresDisusa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</td>
-<td valign="top">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaresDisusa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FaresDisusa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</td>
-</tr>
-</table>
-<br/>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-13953bf2ed67.gif" alt="separator">
-</p>
+---
 
 ### 📫 Get in Touch
 
@@ -111,18 +88,15 @@ While my primary focus is on my current projects, I'm always happy to explore in
 
 <br/>
 <p align="center">
-  <a href="https://www.linkedin.com/in/fares-bendhiab-40866828a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:contact@disuza.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <a href="https://www.linkedin.com/in/fares-bendhiab-40866828a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:contact@disuza.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FaresDisusa&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
-<br/>
+---
 
 <div align="center">
   ❤️ Thanks for watching my profile! Have a nice day! ❤️ <br/>
