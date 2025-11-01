@@ -4,7 +4,7 @@
 
 ---
 
-###<h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px" height="35px"/> About Me </h2>
+### <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px" height="35px"/> About Me </h2>
 I'm a 17-year-old student from Tunisia 🇹🇳 who just really loves computer science, system architecture, and figuring out how to build things from scratch 😁. My main goal right now is building a strong portfolio for university applications (MIT, Stanford, EPFL are the dream! ✨)
 
 Long-term, I'd love to contribute to solving interesting challenges at a company like Google.
