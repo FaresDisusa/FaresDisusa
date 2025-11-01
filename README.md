@@ -1,7 +1,7 @@
 ## 👋🏻 Hi there, I'm Fares!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&width=435&lines=A+17-year-old+Software+Engineer;Building+complex+trading+systems;Passionate+about+System+Architecture;Future+MIT%2FStanford%2FEPFL+student" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&width=435&lines=Hey!+Welcome+to+my+profile+👋;Glad+you're+here!;I'm+just+a+curious+tech+enthusiast;Take+a+look+around!" alt="Typing SVG">
 </p>
 
 I'm a 17-year-old student from Tunisia 🇹🇳 who just really loves computer science, system architecture, and figuring out how to build things from scratch 😁. My main goal right now is building a strong portfolio for university applications (MIT, Stanford, EPFL are the dream! ✨)
@@ -42,7 +42,6 @@ Aside from my main project, I'm also deeply interested in:
 **Core Languages:**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 **Tools & Platforms:**
@@ -50,7 +49,7 @@ Aside from my main project, I'm also deeply interested in:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
 </p>
 
 ---
@@ -62,9 +61,15 @@ Aside from my main project, I'm also deeply interested in:
 ### 📊 My GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaresDisusa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FaresDisusa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaresDisusa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=FaresDisusa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+#### My Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaresDisusa&theme=react-dark&hide_border=true" alt="Fares's Contribution Graph"/>
 </p>
 
 ---
