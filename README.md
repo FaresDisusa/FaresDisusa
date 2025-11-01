@@ -1,9 +1,10 @@
-## 👋🏻 Hi there, I'm Fares!
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&width=435&lines=Hey!+Welcome+to+my+profile+👋;Glad+you're+here!;I'm+just+a+curious+tech+enthusiast;Take+a+look+around!" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&width=550&center=true&lines=Hey!+Welcome+to+my+profile+👋;Glad+you're+here!;This+is+my+digital+playground;Take+a+look+around!" alt="Typing SVG">
 </p>
 
+---
+
+###<h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px" height="35px"/> About Me </h2>
 I'm a 17-year-old student from Tunisia 🇹🇳 who just really loves computer science, system architecture, and figuring out how to build things from scratch 😁. My main goal right now is building a strong portfolio for university applications (MIT, Stanford, EPFL are the dream! ✨)
 
 Long-term, I'd love to contribute to solving interesting challenges at a company like Google.
@@ -62,14 +63,8 @@ Aside from my main project, I'm also deeply interested in:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FaresDisusa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaresDisusa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaresDisusa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=FaresDisusa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-#### My Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaresDisusa&theme=react-dark&hide_border=true" alt="Fares's Contribution Graph"/>
 </p>
 
 ---
@@ -96,3 +91,10 @@ While my primary focus is on my current projects, I'm always happy to explore in
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FaresDisusa&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
+
+---
+
+<div align="center">
+  ❤️ Thanks for watching my profile! Have a nice day! ❤️ <br/>
+  &copy; 2025 Fares Bendhiab
+</div>
