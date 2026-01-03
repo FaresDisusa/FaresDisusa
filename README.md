@@ -100,5 +100,5 @@ While my primary focus is on my current projects, I'm always happy to explore in
 
 <div align="center">
   ❤️ Thanks for watching my profile! Have a nice day! ❤️ <br/>
-  &copy; 2025 Fares Bendhiab
+  &copy; 2026 Fares Bendhiab
 </div>
