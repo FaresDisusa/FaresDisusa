@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Fares Bendhian</h1>
+  <h1>Fares Bendhiab</h1>
   <h3>Systems Architecture | Algorithmic Trading | Biotechnology</h3>
   <br/>
   <p>
