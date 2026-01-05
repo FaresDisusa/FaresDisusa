@@ -1,104 +1,73 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&width=550&center=true&lines=Hey!+Welcome+to+my+profile+👋;Glad+you're+here!;This+is+my+digital+playground;Take+a+look+around!" alt="Typing SVG">
-</p>
-
-<h3> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px" height="30px"/> About Me: </h3>
-
-I'm a 17-year-old student from Tunisia 🇹🇳 who just really loves computer science, system architecture, and figuring out how to build things from scratch 😁. My main goal right now is building a strong portfolio for university applications (MIT, Stanford, EPFL are the dream! ✨)
-
-Long-term, I'd love to contribute to solving interesting challenges at a company like Google.
-<br/>
-
----
-
-### 🚀 What I'm Building:
-
-My main project for the last couple of years has been an algorithmic trading system for Bitcoin. It's been a huge learning process 😅! This project involves:
-
-* **Algorithmic Core:** Writing and testing different swing trading algorithms in Python.
-* **ML & Data Architecture:** Hooking up a data pipeline with **Google Pub/Sub** to stream market data, using **Apache Airflow** to manage the workflow. This pipeline feeds the ML models and has checks to help make sure the data is clean.
-* **Advanced ML Architecture:** The current big idea I'm experimenting with is a system with a **meta-model** that manages an ensemble of specialized **expert models**. The goal is to let the system pick the best model for whatever the market is doing at the moment.
-
-> **Heads-up:** The repo for this project is private for now! It's still a heavy work-in-progress, but I definitely plan to open-source it once it's more polished and ready for the world. 🛠️
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🔭 My Other Interests:
-
-* **Quantum Computing:** Trying to keep up with what's happening in quantum... it's wild! 🤯
-* **Business & Market Analysis:** Researching the business models of tech companies, investment strategies, and the economics of software.
-* **Productivity:** Developing efficient workflows and systems for self-improvement and focused work.
-<br/>
-</td>
-<td width="50%" valign="top">
-
-### 🌱 What I'm Currently Learning:
-
-* Going deeper into Machine Learning with an advanced course 🧠.
-* Getting better at deploying services on GCP.
-* Outside of tech, I'm also learning Spanish, ¡Hola! 🇪🇸
-</td>
-</tr>
-</table>
+<div align="center">
+  <h1>Fares Bendhian</h1>
+  <h3>Systems Architecture | Algorithmic Trading | Biotechnology</h3>
+  <br/>
+  <p>
+    <em>"Building the bridge between biological intelligence and silicon efficiency."</em>
+  </p>
+</div>
 
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-13953bf2ed67.gif" alt="separator">
-</p>
+## 0x01. About
 
-### 📊 My GitHub Stats & Contributions:
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=FaresDisusa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-<p/>
+> **Status:** High School Student (Tunisia) | Class of 2027  
+> **Focus:** High-Performance Computing, Financial Engineering, Computational Biology.
 
-  
-### 🛠️ My Tech Stack:
+I do not just write code; I design systems. My work focuses on creating autonomous infrastructure capable of **strategic, market-adaptive execution**. While my academic path is aimed at institutions like **MIT** or **Stanford**, my operational focus is on deploying production-grade architectures today.
 
-**Core Languages:**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
-
-**ML & MLOps:**
-<p>
-  <img src="https://img.shields.io/badge/LightGBM-017CEE?style=for-the-badge&logoColor=white" alt="LightGBM"/>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow"/>
-  <img src="https://img.shields.io/badge/Google%20Pub/Sub-B31412?style=for-the-badge&logo=google-pubsub&logoColor=white" alt="Google Pub/Sub"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-</p>
-
-**Tools & Platforms:**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-</p>
-
----
-
-### 📫 Get in Touch
-
-I'm always open to connecting with passionate people and discussing new ideas. 
-
-While my primary focus is on my current projects, I'm always happy to explore interesting opportunities or collaborations. Feel free to reach out 😊!
+Current Directive: **Scaling automated trading systems & Exploring pharmacogenomics.**
 
 <br/>
-<p align="center">
-  <a href="https://www.linkedin.com/in/fares-bendhiab-40866828a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:contact@disuza.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
 
----
+## 0x02. The Flagship: Quantitative Swing Trading System
+
+This is not a script, it is an industrial-grade pipeline designed for the Bitcoin markets. The source code is proprietary, but the architecture is fully documented.
+
+### 🏛️ Project: Disuza Quantitative Architecture
+**Role:** Lead Architect & Developer  
+**Stack:** Python, Vertex AI, Apache Airflow, Glassnode API (Professional Tier).
+
+The system operates on a sophisticated data-streaming architecture:
+1.  **Ingestion:** Real-time on-chain and derivative data streaming via Google Pub/Sub.
+2.  **Orchestration:** ETL pipelines managed by Apache Airflow for data integrity.
+3.  **Intelligence:** An ensemble of ML models (Expert Models) governed by a Meta-Model selector to adapt to market volatility regimes.
+
+> 📂 **Access the Documentation:** https://github.com/DisuzaQuantitative/Disuza-Quantitative 
+> *Note: This repository contains the complete system documentation, architectural diagrams, and methodology. The core execution engine remains private.*
+
+<br/>
+
+## 0x03. Technical Arsenal
+
+I favor reliability and precision over trends.
+
+| Domain | Technology Stack |
+| :--- | :--- |
+| **Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Data Engineering** | ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![Google Pub/Sub](https://img.shields.io/badge/GCP_Pub/Sub-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Machine Learning** | ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-A0A0A0?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Environment** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+<br/>
+
+## 0x04. Horizon
+
+My roadmap is driven by impact, not curriculum.
+
+* **Now:** Refining the Swing Trading Algorithm (Live Simulation Phase).
+* **Near Future:** Structuring the Holding Company & Capital Allocation.
+* **Long Term:** Bio-computation & Longevity Research (Solving aging as an engineering problem).
+
+<br/>
 
 <div align="center">
-  ❤️ Thanks for watching my profile! Have a nice day! ❤️ <br/>
-  &copy; 2026 Fares Bendhiab
+  <a href="https://www.linkedin.com/in/fares-bendhiab-40866828a/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:contact@disuza.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <br/><br/>
+  <p>© 2026 Fares Bendhiab. All systems nominal.</p>
 </div>
