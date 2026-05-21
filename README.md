@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Fares Bendhiab</h1>
-  <h3>Systems Architecture · Algorithmic Trading · Computational Biology</h3>
+  <h3>Systems Architecture · Quantitative Research · Computational Biology</h3>
   <br/>
   <p>
     <em>"Building the bridge between biological intelligence and silicon efficiency."</em>
@@ -12,28 +12,28 @@
 ## 0x01. About
 
 > **Status:** High School Student (Tunisia) · Class of 2027  
-> **Focus:** Distributed systems, quantitative finance, computational biology.
+> **Focus:** Quantitative research, distributed systems, computational biology.
 
-I build autonomous infrastructure for market-adaptive execution. Source code stays private; architecture and methodology are open.
+I build autonomous infrastructure for market-adaptive execution across global derivatives venues. Source code stays private; architecture and methodology are open.
 
-**Currently:** Scaling automated trading systems · Exploring pharmacogenomics.
+**Currently:** Scaling systematic trading infrastructure · Exploring computational biology and longevity research.
 
 <br/>
 
-## 0x02. The Flagship: Quantitative Swing Trading System
+## 0x02. The Flagship: Systematic Derivatives Research
 
-A systematic trading infrastructure for the Bitcoin markets. Source code is proprietary, architecture is fully documented.
+A multi-venue systematic trading infrastructure targeting 24/7 perpetual derivatives markets and regulated index futures. Source code is proprietary; architecture and methodology are publicly documented.
 
 ### 🏛️ Project: Disuza Quantitative
 
-**Role:** Founder & Developer  
-**Stack:** Python · Vertex AI · Apache Airflow · Glassnode API (Professional Tier)
+**Role:** Founder & Lead Researcher  
+**Stack:** Python · Polars · Event-driven backtesting · Google Cloud Platform
 
 Pipeline:
 
-1. **Ingestion** — Real-time on-chain and derivatives data streaming via Google Pub/Sub.
-2. **Orchestration** — ETL pipelines managed by Apache Airflow.
-3. **Intelligence** — An ensemble of expert ML models governed by a meta-model selector to adapt across volatility regimes.
+1. **Data Layer** — Institutional-grade Level-2 order book and derivatives flow ingestion via venue APIs, with redundant capture for forward-stream resilience.
+2. **Validation Layer** — Anti-overfit pipeline grounded in López de Prado methodology: Combinatorial Purged Cross-Validation, Deflated Sharpe Ratio, Probability of Backtest Overfitting.
+3. **Execution Layer** — Event-driven backtesting infrastructure with multi-venue adapters and comprehensive real-time risk management (drawdown control, latency monitoring, venue-health surveillance).
 
 > 📂 **Documentation:** https://github.com/DisuzaQuantitative/Disuza-Quantitative  
 > *Public repo contains system documentation, architectural diagrams, and methodology. Core execution engine remains private.*
@@ -45,16 +45,16 @@ Pipeline:
 | Domain | Stack |
 | :--- | :--- |
 | **Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Data Engineering** | ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![Google Pub/Sub](https://img.shields.io/badge/GCP_Pub/Sub-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Machine Learning** | ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-A0A0A0?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| **Environment** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Data Engineering** | ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Quantitative** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Apache Arrow](https://img.shields.io/badge/Apache_Arrow-1F2A44?style=flat-square&logo=apache&logoColor=white) |
+| **Environment** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
 
 <br/>
 
 ## 0x04. Horizon
 
-* **Now** — Refining the swing trading algorithm (live simulation phase).
-* **Near Future** — Structuring the holding company and capital allocation.
+* **Now** — Refining systematic trading infrastructure (research and validation phase).
+* **Near Future** — Structuring capital allocation and the operating entity.
 * **Long Term** — Computational biology and longevity research.
 
 <br/>
